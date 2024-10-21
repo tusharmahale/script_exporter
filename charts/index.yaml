@@ -10,6 +10,6 @@ entries:
     name: script-exporter
     type: application
     urls:
-    - https://tusharmahale.github.io/helm-chart/script-exporter-0.9.0.tgz
+    - https://tusharmahale.github.io/charts/script-exporter-0.9.0.tgz
     version: 0.9.0
 generated: "2024-10-21T10:31:34.663298+05:30"
