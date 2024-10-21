@@ -10,6 +10,6 @@ entries:
     name: script-exporter
     type: application
     urls:
-    - https://mattiaperi.github.io/script_exporter/charts/script-exporter-0.9.0.tgz
+    - https://tusharmahale.github.io/script_exporter/charts/script-exporter-0.9.0.tgz
     version: 0.9.0
 generated: "2024-10-21T10:53:05.569478+05:30"
